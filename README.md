@@ -1,6 +1,3 @@
-
-# Preparación de Datos
-
 ### Descripción
 
 Este proyecto tiene como objetivo extraer, limpiar y unificar series de datos bancarios publicadas por el Banco Central de Chile (Bcentral). Los datos incluyen información sobre **colocaciones**, **captaciones** e **inversiones** de distintas instituciones financieras. El resultado final es un archivo CSV con los datos normalizados y listos para análisis financiero o estadístico.
