@@ -104,5 +104,4 @@ Este proyecto tiene como objetivo extraer, limpiar y unificar series de datos ba
 ### Notas importantes
 
 * Algunos valores en los Excel originales estaban marcados como `ND` (No existe dato) y se eliminan durante la limpieza.
-* La columna `Valor` se almacena en millones de pesos o millones de dólares, según corresponda.
 * La columna `Tipo` indica si los datos corresponden a **colocación**, **captación** o **inversión**.
