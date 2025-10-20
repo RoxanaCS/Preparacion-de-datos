@@ -79,7 +79,7 @@ Este proyecto tiene como objetivo extraer, limpiar y unificar series de datos ba
 1. Clonar el repositorio:
 
    ```bash
-   git clone <URL-del-repositorio>
+   git clone https://github.com/RoxanaCS/Preparacion-de-datos.git
    ```
 2. Instalar dependencias:
 
