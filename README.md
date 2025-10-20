@@ -74,21 +74,6 @@ Este proyecto tiene como objetivo extraer, limpiar y unificar series de datos ba
 
 ---
 
-### Instrucciones de Instalación
-
-1. Clonar el repositorio:
-
-   ```bash
-   git clone https://github.com/RoxanaCS/Preparacion-de-datos.git
-   ```
-2. Instalar dependencias:
-
-   ```bash
-   pip install pandas numpy requests beautifulsoup4
-   ```
-
----
-
 ### Cómo ejecutar el proyecto
 
 1. Ejecutar el script de Python:
